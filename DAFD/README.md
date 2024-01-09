@@ -39,11 +39,11 @@ pip install -r requirements.txt
 https://pan.baidu.com/s/1BGw1MJSv436FDnVnodAJHw 提取码：oxtv
 
 ## Run
-'''
+```
 1. cd DAFD
 2. cp 'modelparameters' folder into 'DAFD' folder
 3. sh sh/xx_sh/DAFD.sh
-'''
+```
 
 ## Function of each file
 mian.py - Project entry<br />
